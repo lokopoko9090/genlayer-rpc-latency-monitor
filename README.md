@@ -1,5 +1,3 @@
-# genlayer-rpc-latency-monitor
-GenLayer Public RPC Latency Monitor from Ukraine
 # GenLayer Public RPC Latency & Health Monitor
 
 A simple open-source tool to monitor latency, ICMP ping and health of GenLayer's public Studio RPC (`https://studio.genlayer.com/api`).
